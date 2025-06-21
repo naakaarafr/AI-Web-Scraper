@@ -16,10 +16,6 @@ An intelligent web scraping and content parsing application that combines the po
 
 Visit the live application: [AI Web Scraper](https://github.com/naakaarafr/AI-Web-Scraper)
 
-## 📸 Screenshots
-
-*Add screenshots of your application here*
-
 ## 🛠️ Installation
 
 ### Prerequisites
